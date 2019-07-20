@@ -8,4 +8,4 @@ services:
     env_file:
       - ./postgres/db.env
     ports:
-      - '0.0.0.0:5432:5432'
+      - '0.0.0.0:2345:5432'
