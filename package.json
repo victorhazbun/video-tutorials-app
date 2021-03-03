@@ -21,7 +21,7 @@
     "express": "^4.16.3",
     "knex": "^0.14.3",
     "pg": "^7.4.3",
-    "pug": "^2.0.3",
+    "pug": "^3.0.1",
     "snakecase-keys": "git+ssh://git@github.com/juanpaco/snakecase-keys.git#juanpaco/6-option-to-not-do-a-deep-conversion",
     "uuid": "^3.3.2"
   },
